@@ -1,0 +1,702 @@
+INSERT IN GRAPH <http://kpi_tmi>
+{
+<#ID_KPI:1> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:1> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:1> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:1> <kpionto/hasdimension/tempo>10  .
+ <#ID_KPI:1> <kpionto/hasdimension/nupcntadmtdperiodo>2 .
+<#ID_KPI:1> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:1> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:2> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:2> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:2> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:2> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:2> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:2> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:2> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:3> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:3> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:3> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:3> <kpionto/hasdimension/tempo>50  .
+ <#ID_KPI:3> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:3> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:3> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:4> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:4> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:4> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:4> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:4> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:4> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:4> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:5> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:5> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:5> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:5> <kpionto/hasdimension/tempo>90  .
+ <#ID_KPI:5> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:5> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:5> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:6> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:6> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:6> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:6> <kpionto/hasdimension/tempo>322  .
+ <#ID_KPI:6> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:6> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:6> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:7> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:7> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:7> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:7> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:7> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:7> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:7> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:8> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:8> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:8> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:8> <kpionto/hasdimension/tempo>600  .
+ <#ID_KPI:8> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:8> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:8> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:9> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:9> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:9> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:9> <kpionto/hasdimension/tempo>500  .
+ <#ID_KPI:9> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:9> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:9> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:10> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:10> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:10> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:10> <kpionto/hasdimension/tempo>321  .
+ <#ID_KPI:10> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:10> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:10> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:11> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:11> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:11> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:11> <kpionto/hasdimension/tempo>123  .
+ <#ID_KPI:11> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:11> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:11> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:12> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:12> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:12> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:12> <kpionto/hasdimension/tempo>456  .
+ <#ID_KPI:12> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:12> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:12> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:13> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:13> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:13> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:13> <kpionto/hasdimension/tempo>543  .
+ <#ID_KPI:13> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:13> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:13> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:14> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:14> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:14> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:14> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:14> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:14> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:14> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:15> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:15> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:15> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:15> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:15> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:15> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:15> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:16> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:16> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:16> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:16> <kpionto/hasdimension/tempo>12  .
+ <#ID_KPI:16> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:16> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:16> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:17> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:17> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:17> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:17> <kpionto/hasdimension/tempo>65  .
+ <#ID_KPI:17> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:17> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:17> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:18> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:18> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:18> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:18> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:18> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:18> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:18> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:19> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:19> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:19> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:19> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:19> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:19> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:19> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:20> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:20> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:20> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:20> <kpionto/hasdimension/tempo>76  .
+ <#ID_KPI:20> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:20> <kpionto/hasggrfunction/nualtapcnperiodo>7 .
+ <#ID_KPI:20> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:21> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:21> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:21> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:21> <kpionto/hasdimension/tempo>56  .
+ <#ID_KPI:21> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:21> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:21> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:22> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:22> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:22> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:22> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:22> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:22> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:22> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:23> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:23> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:23> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:23> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:23> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:23> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:23> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:24> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:24> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:24> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:24> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:24> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:24> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:24> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:25> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:25> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:25> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:25> <kpionto/hasdimension/tempo>67  .
+ <#ID_KPI:25> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:25> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:25> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:26> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:26> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:26> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:26> <kpionto/hasdimension/tempo>98  .
+ <#ID_KPI:26> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:26> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:26> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:27> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:27> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:27> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:27> <kpionto/hasdimension/tempo>10  .
+ <#ID_KPI:27> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:27> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:27> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:28> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:28> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:28> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:28> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:28> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:28> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:28> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:29> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:29> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:29> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:29> <kpionto/hasdimension/tempo>50  .
+ <#ID_KPI:29> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:29> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:29> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:30> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:30> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:30> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:30> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:30> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:30> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:30> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:31> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:31> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:31> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:31> <kpionto/hasdimension/tempo>90  .
+ <#ID_KPI:31> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:31> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:31> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:32> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:32> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:32> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:32> <kpionto/hasdimension/tempo>322  .
+ <#ID_KPI:32> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:32> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:32> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:33> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:33> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:33> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:33> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:33> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:33> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:33> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:34> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:34> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:34> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:34> <kpionto/hasdimension/tempo>600  .
+ <#ID_KPI:34> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:34> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:34> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:35> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:35> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:35> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:35> <kpionto/hasdimension/tempo>500  .
+ <#ID_KPI:35> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:35> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:35> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:36> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:36> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:36> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:36> <kpionto/hasdimension/tempo>321  .
+ <#ID_KPI:36> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:36> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:36> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:37> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:37> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:37> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:37> <kpionto/hasdimension/tempo>123  .
+ <#ID_KPI:37> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:37> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:37> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:38> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:38> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:38> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:38> <kpionto/hasdimension/tempo>456  .
+ <#ID_KPI:38> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:38> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:38> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:39> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:39> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:39> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:39> <kpionto/hasdimension/tempo>543  .
+ <#ID_KPI:39> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:39> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:39> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:40> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:40> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:40> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:40> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:40> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:40> <kpionto/hasggrfunction/nualtapcnperiodo>7 .
+ <#ID_KPI:40> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:41> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:41> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:41> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:41> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:41> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:41> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:41> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:42> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:42> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:42> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:42> <kpionto/hasdimension/tempo>12  .
+ <#ID_KPI:42> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:42> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:42> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:43> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:43> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:43> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:43> <kpionto/hasdimension/tempo>65  .
+ <#ID_KPI:43> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:43> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:43> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:44> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:44> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:44> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:44> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:44> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:44> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:44> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:45> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:45> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:45> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:45> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:45> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:45> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:45> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:46> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:46> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:46> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:46> <kpionto/hasdimension/tempo>76  .
+ <#ID_KPI:46> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:46> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:46> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:47> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:47> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:47> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:47> <kpionto/hasdimension/tempo>56  .
+ <#ID_KPI:47> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:47> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:47> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:48> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:48> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:48> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:48> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:48> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:48> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:48> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:49> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:49> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:49> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:49> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:49> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:49> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:49> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:50> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:50> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:50> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:50> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:50> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:50> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:50> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:51> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:51> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:51> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:51> <kpionto/hasdimension/tempo>67  .
+ <#ID_KPI:51> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:51> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:51> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:52> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:52> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:52> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:52> <kpionto/hasdimension/tempo>98  .
+ <#ID_KPI:52> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:52> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:52> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:53> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:53> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:53> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:53> <kpionto/hasdimension/tempo>10  .
+ <#ID_KPI:53> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:53> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:53> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:54> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:54> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:54> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:54> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:54> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:54> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:54> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:55> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:55> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:55> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:55> <kpionto/hasdimension/tempo>50  .
+ <#ID_KPI:55> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:55> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:55> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:56> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:56> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:56> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:56> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:56> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:56> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:56> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:57> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:57> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:57> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:57> <kpionto/hasdimension/tempo>90  .
+ <#ID_KPI:57> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:57> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:57> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:58> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:58> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:58> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:58> <kpionto/hasdimension/tempo>322  .
+ <#ID_KPI:58> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:58> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:58> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:59> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:59> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:59> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:59> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:59> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:59> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:59> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:60> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:60> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:60> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:60> <kpionto/hasdimension/tempo>600  .
+ <#ID_KPI:60> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:60> <kpionto/hasggrfunction/nualtapcnperiodo>7 .
+ <#ID_KPI:60> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:61> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:61> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:61> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:61> <kpionto/hasdimension/tempo>500  .
+ <#ID_KPI:61> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:61> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:61> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:62> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:62> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:62> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:62> <kpionto/hasdimension/tempo>321  .
+ <#ID_KPI:62> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:62> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:62> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:63> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:63> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:63> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:63> <kpionto/hasdimension/tempo>123  .
+ <#ID_KPI:63> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:63> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:63> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:64> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:64> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:64> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:64> <kpionto/hasdimension/tempo>456  .
+ <#ID_KPI:64> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:64> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:64> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:65> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:65> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:65> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:65> <kpionto/hasdimension/tempo>543  .
+ <#ID_KPI:65> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:65> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:65> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:66> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:66> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:66> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:66> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:66> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:66> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:66> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:67> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:67> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:67> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:67> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:67> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:67> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:67> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:68> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:68> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:68> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:68> <kpionto/hasdimension/tempo>12  .
+ <#ID_KPI:68> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:68> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:68> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:69> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:69> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:69> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:69> <kpionto/hasdimension/tempo>65  .
+ <#ID_KPI:69> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:69> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:69> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:70> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:70> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:70> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:70> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:70> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:70> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:70> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:71> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:71> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:71> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:71> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:71> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:71> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:71> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:72> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:72> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:72> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:72> <kpionto/hasdimension/tempo>76  .
+ <#ID_KPI:72> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:72> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:72> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:73> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:73> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:73> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:73> <kpionto/hasdimension/tempo>56  .
+ <#ID_KPI:73> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:73> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:73> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:74> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:74> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:74> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:74> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:74> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:74> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:74> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:75> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:75> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:75> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:75> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:75> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:75> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:75> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:76> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:76> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:76> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:76> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:76> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:76> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:76> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:77> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:77> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:77> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:77> <kpionto/hasdimension/tempo>67  .
+ <#ID_KPI:77> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:77> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:77> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:78> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:78> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:78> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:78> <kpionto/hasdimension/tempo>98  .
+ <#ID_KPI:78> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:78> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:78> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:79> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:79> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:79> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:79> <kpionto/hasdimension/tempo>10  .
+ <#ID_KPI:79> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:79> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:79> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:80> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:80> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:80> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:80> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:80> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:80> <kpionto/hasggrfunction/nualtapcnperiodo>7 .
+ <#ID_KPI:80> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:81> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:81> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:81> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:81> <kpionto/hasdimension/tempo>50  .
+ <#ID_KPI:81> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:81> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:81> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:82> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:82> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:82> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:82> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:82> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:82> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:82> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:83> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:83> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:83> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:83> <kpionto/hasdimension/tempo>90  .
+ <#ID_KPI:83> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:83> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:83> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:84> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:84> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:84> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:84> <kpionto/hasdimension/tempo>322  .
+ <#ID_KPI:84> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:84> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:84> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:85> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:85> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:85> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:85> <kpionto/hasdimension/tempo>45  .
+ <#ID_KPI:85> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:85> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:85> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:86> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:86> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:86> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:86> <kpionto/hasdimension/tempo>600  .
+ <#ID_KPI:86> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:86> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:86> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:87> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:87> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:87> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:87> <kpionto/hasdimension/tempo>500  .
+ <#ID_KPI:87> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:87> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:87> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:88> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:88> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:88> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:88> <kpionto/hasdimension/tempo>321  .
+ <#ID_KPI:88> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:88> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:88> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:89> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:89> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:89> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:89> <kpionto/hasdimension/tempo>123  .
+ <#ID_KPI:89> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:89> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:89> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:90> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:90> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:90> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:90> <kpionto/hasdimension/tempo>456  .
+ <#ID_KPI:90> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:90> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:90> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:91> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:91> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:91> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:91> <kpionto/hasdimension/tempo>543  .
+ <#ID_KPI:91> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:91> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:91> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:92> <kpionto/hasdimension/cid> 3 .
+<#ID_KPI:92> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:92> <kpionto/hasdimension/municipio>1 .
+ <#ID_KPI:92> <kpionto/hasdimension/tempo>21  .
+ <#ID_KPI:92> <kpionto/hasggrfunction/nupcntadmtdperiodo>2 .
+<#ID_KPI:92> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:92> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:93> <kpionto/hasdimension/cid> 4 .
+<#ID_KPI:93> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:93> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:93> <kpionto/hasdimension/tempo>32  .
+ <#ID_KPI:93> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:93> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:93> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:94> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:94> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:94> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:94> <kpionto/hasdimension/tempo>12  .
+ <#ID_KPI:94> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:94> <kpionto/hasggrfunction/nualtapcnperiodo>1 .
+ <#ID_KPI:94> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:95> <kpionto/hasdimension/cid> 7 .
+<#ID_KPI:95> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:95> <kpionto/hasdimension/municipio>4 .
+ <#ID_KPI:95> <kpionto/hasdimension/tempo>65  .
+ <#ID_KPI:95> <kpionto/hasggrfunction/nupcntadmtdperiodo>4 .
+<#ID_KPI:95> <kpionto/hasggrfunction/nualtapcnperiodo>2 .
+ <#ID_KPI:95> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:96> <kpionto/hasdimension/cid> 5 .
+<#ID_KPI:96> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:96> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:96> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:96> <kpionto/hasggrfunction/nupcntadmtdperiodo>3 .
+<#ID_KPI:96> <kpionto/hasggrfunction/nualtapcnperiodo>3 .
+ <#ID_KPI:96> <kpionto/hasggrfunction/tmi> 24,09 .
+<#ID_KPI:97> <kpionto/hasdimension/cid> 11 .
+<#ID_KPI:97> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:97> <kpionto/hasdimension/municipio>5 .
+ <#ID_KPI:97> <kpionto/hasdimension/tempo>23  .
+ <#ID_KPI:97> <kpionto/hasggrfunction/nupcntadmtdperiodo>5 .
+<#ID_KPI:97> <kpionto/hasggrfunction/nualtapcnperiodo>4 .
+ <#ID_KPI:97> <kpionto/hasggrfunction/tmi> 21,45 .
+<#ID_KPI:98> <kpionto/hasdimension/cid> 10 .
+<#ID_KPI:98> <kpionto/hasdimension/faixaetaria>3 .
+ <#ID_KPI:98> <kpionto/hasdimension/municipio>6 .
+ <#ID_KPI:98> <kpionto/hasdimension/tempo>76  .
+ <#ID_KPI:98> <kpionto/hasggrfunction/nupcntadmtdperiodo>6 .
+<#ID_KPI:98> <kpionto/hasggrfunction/nualtapcnperiodo>5 .
+ <#ID_KPI:98> <kpionto/hasggrfunction/tmi> 20,38 .
+<#ID_KPI:99> <kpionto/hasdimension/cid> 9 .
+<#ID_KPI:99> <kpionto/hasdimension/faixaetaria>1 .
+ <#ID_KPI:99> <kpionto/hasdimension/municipio>3 .
+ <#ID_KPI:99> <kpionto/hasdimension/tempo>56  .
+ <#ID_KPI:99> <kpionto/hasggrfunction/nupcntadmtdperiodo>7 .
+<#ID_KPI:99> <kpionto/hasggrfunction/nualtapcnperiodo>6 .
+ <#ID_KPI:99> <kpionto/hasggrfunction/tmi> 19,67 .
+<#ID_KPI:100> <kpionto/hasdimension/cid> 2 .
+<#ID_KPI:100> <kpionto/hasdimension/faixaetaria>2 .
+ <#ID_KPI:100> <kpionto/hasdimension/municipio>2 .
+ <#ID_KPI:100> <kpionto/hasdimension/tempo>43  .
+ <#ID_KPI:100> <kpionto/hasggrfunction/nupcntadmtdperiodo>8 .
+<#ID_KPI:100> <kpionto/hasggrfunction/nualtapcnperiodo>7 .
+ <#ID_KPI:100> <kpionto/hasggrfunction/tmi> 24,09 }
